@@ -1,5 +1,0 @@
-pytz
-flask
-datetime
-flask_mysqldb
-PyMySQL==1.0.2
